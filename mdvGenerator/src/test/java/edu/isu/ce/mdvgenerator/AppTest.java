@@ -1,4 +1,4 @@
-package org.hcmut.tuyen;
+package edu.isu.ce.mdvgenerator;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
